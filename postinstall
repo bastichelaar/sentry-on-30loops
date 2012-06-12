@@ -1,3 +1,2 @@
 #!/bin/sh
-ls /app/sentry
-sentry upgrade --config=/app/sentry/sentry.conf.py
+sentry --config=/app/sentry/sentry.conf.py upgrade
