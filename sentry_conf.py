@@ -1,4 +1,3 @@
-
 import os.path
 
 CONF_ROOT = os.path.dirname(__file__)
