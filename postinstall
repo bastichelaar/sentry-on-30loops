@@ -1,2 +1,3 @@
 #!/bin/sh
 sentry --config=/app/current/sentry.conf.py upgrade --noinput
+start sentry
