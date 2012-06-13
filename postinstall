@@ -1,2 +1,2 @@
 #!/bin/sh
-sentry --config=$PROJECT_ROOT/sentry.conf.py upgrade --noinput
+sentry --config=/app/current/sentry.conf.py upgrade --noinput
