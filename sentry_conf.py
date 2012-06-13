@@ -1,4 +1,5 @@
 import os.path
+import dj_database_url
 
 CONF_ROOT = os.path.dirname(__file__)
 
