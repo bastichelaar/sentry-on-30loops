@@ -1,4 +1,3 @@
 #!/bin/sh
 sentry --config=/app/current/sentry_conf.py upgrade --noinput
 python createadmin.py
-start sentry
